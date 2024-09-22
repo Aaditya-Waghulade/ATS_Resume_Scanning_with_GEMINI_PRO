@@ -1,0 +1,7 @@
+streamlit #Frontend Library
+google-generativeai
+python-dotenv #Environment Folder Library
+pdf2image #This Library will help us to convert the pdf file into the image and then the gemeni pro will detect the words from it.
+proto-plus==1.23.0
+protobuf==3.20.3
+pymupdf

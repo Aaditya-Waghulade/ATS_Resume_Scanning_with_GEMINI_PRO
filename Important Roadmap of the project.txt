@@ -1,0 +1,6 @@
+To understand the things in good manner we are going to write down the things which we need do in step by step
+1. Field to put Job Discription.
+2. Field to Upload a pdf(resume).
+3. Converting that pdf to image with the help of "pdf2Image" library.
+4. "pdf2Image"=====>Processing====>Google Gemini Pro.
+5. Prompts Template also need to be create for getting our solutions.
